@@ -1,16 +1,14 @@
 ## 👋
 
-<!--
-**aadamsongit/aadamsongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Portfolio Site
+React + Framer Motion + Varino font.
+Deployed MVP on Netlify.
+Tailwind CSS setup is in progress — encountering issues related to v4 migration.
 
-Here are some ideas to get you started:
+🛒 E-Commerce Site (Cyberpunk Theme)
+Built with Next.js, Tailwind CSS, TypeScript, and Flexbox.
+Currently a minimalist proof of concept with an implemented Category component.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Hashle (Dev Wordle Clone)
+A Wordle-style game for developers.
+Initial test structure implemented with Vitest for unit testing.
