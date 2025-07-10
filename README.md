@@ -1,11 +1,12 @@
 ## 👋
 
-🖥️ Portfolio Site
-React + Framer Motion + Varino font.
+🖥️ Web Developer Portfolio Website
+React + Framer Motion + Varino font + Cursor.
 Deployed MVP on Netlify.
 Tailwind CSS setup is in progress — encountering issues related to v4 migration.
 
-🛒 E-Commerce Site (Cyberpunk Theme)
+🛒 Augment Ascension
+E-Commerce Site (Cyberpunk Theme)
 Built with Next.js, Tailwind CSS, TypeScript, and Flexbox.
 Currently a minimalist proof of concept with an implemented Category component.
 
