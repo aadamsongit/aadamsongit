@@ -11,7 +11,7 @@ I handle a bit of everything. I'm an engineer with React and frontend, also full
 ## Solo Projects
 
 🧠 Hashle (Dev Wordle Clone)
-A Wordle-style game for developers.
+A Wordle-style game
 Initial test structure implemented with Vitest for unit testing.
 
 🛒 Augment Ascension
