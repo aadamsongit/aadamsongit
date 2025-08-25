@@ -11,7 +11,7 @@
 ✨ 2025: React Scrimba<br />
 
 ### ✨Work History:<br />
-🎇 Feb/2025 - present: Open Source Maintainer and Contributor
+🎇 Feb/2025 - present: Open Source Maintainer and Contributor<br />
 🎇 June/2024 - July/2024: IT Automation Engineer/Solutions Architect @ Takeda Pharmaceuticals<br />
 🎇 Feb/2023 - May/2023: TEKSystems IT (Network) Automation Bootcamp)<br />
 🎇 June/2022 - September/2022: Junior Email Developer at Covetrus<br />
