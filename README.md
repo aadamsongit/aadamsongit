@@ -1,14 +1,14 @@
 ## 👋 Hello, I'm Amber, FullStack Developer and Chief Technology Officer
 
 ### ✨ I'm a mostly self-taught FullStack Developer. <br /><br />
-✨ 4(+) years: React.js, JavaScript, CSS, Python.
-✨ Experienced: TypeScript, Tailwind 3 + 4, PostCSS, PostgreSQL, Firebase, Supabase
+✨ 4(+) years: React.js, JavaScript, CSS, Python.<br />
+✨ Experienced: TypeScript, Tailwind 3 + 4, PostCSS, PostgreSQL, Firebase, Supabase<br />
 
 ### ✨ Certifications <br /><br />
-✨ Aug/2021 - Dec/2021: Coding Dojo Certificate of Completion (Python, React, Java)
-✨ 2022: Legacy Responsive Design (FreeCodeCamp)
-✨ 2023: TEKSystems IT Automation Bootcamp Certificate (Google Coursera: Network Automation with Python)
-✨ 2025: React Scrimba
+✨ Aug/2021 - Dec/2021: Coding Dojo Certificate of Completion (Python, React, Java)<br />
+✨ 2022: Legacy Responsive Design (FreeCodeCamp)<br />
+✨ 2023: TEKSystems IT Automation Bootcamp Certificate (Google Coursera: Network Automation with Python)<br />
+✨ 2025: React Scrimba<br />
 
 ### ✨Work History:<br />
 🎇 Feb/2025 - present: Open Source Maintainer and Contributor
