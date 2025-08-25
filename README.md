@@ -33,8 +33,10 @@
 ## Solo Projects
 
 🧠 Hashle (Dev Wordle Clone)
-A Wordle-style game.
-Initial test structure implemented with Vitest for unit testing.
+A Wordle-style game.<br />
+Post-MVP refactoring: custom hooks for cleaner, more modular code<br />
+Post-MVP: axe-core added for a11y audit<br />
+Unit tests added. Vitest/Jest/React Testing Library.<br />
 
 🛒 Augment Ascension
 E-Commerce Site (Cyberpunk Theme)
