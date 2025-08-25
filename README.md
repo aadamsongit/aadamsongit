@@ -3,8 +3,12 @@
 ### ✨ I'm a mostly self-taught FullStack Developer. <br /><br />
 ✨ 4(+) years: React.js, JavaScript, CSS, Python.
 ✨ Experienced: TypeScript, Tailwind 3 + 4, PostCSS, PostgreSQL, Firebase, Supabase
-✨ From August through December of 2021, I attended Coding Dojo's bootcamp, where I learned to build fullstack applications with Python, React (MERN), and Java with SpringBoot.<br />
-✨ Through 2022, I continued my studies, obtaining the legacy Responsive Design certification from FreeCodeCamp. I also completed Angela Yu's MERN course via Udemy..<br />
+
+### ✨ Certifications <br /><br />
+✨ Aug/2021 - Dec/2021: Coding Dojo Certificate of Completion (Python, React, Java)
+✨ 2022: Legacy Responsive Design (FreeCodeCamp)
+✨ 2023: TEKSystems IT Automation Bootcamp Certificate (Google Coursera: Network Automation with Python)
+✨ 2025: React Scrimba
 
 ### ✨Work History:<br />
 🎇 Feb/2025 - present: Open Source Maintainer and Contributor
