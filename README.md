@@ -29,6 +29,7 @@
 **Frameworks:** React.js, Next.js, Vue.js (intermediate), Nuxt.js<br />
 **Learning:** System Design, Three.js, Microservices with Nest.js and Kafka<br />
 
+-------
 
 ## Solo Projects
 
@@ -38,10 +39,10 @@ Post-MVP refactoring: custom hooks for cleaner, more modular code<br />
 Post-MVP: axe-core added for a11y audit<br />
 Unit tests added. Vitest/Jest/React Testing Library.<br />
 
-🛒 Augment Ascension
-E-Commerce Site (Cyberpunk Theme)
-Built with Next.js, Tailwind CSS, TypeScript, and Flexbox.
-Currently a minimalist proof of concept with an implemented Category component.
+🛒 Augment Ascension<br />
+E-Commerce Site (Cyberpunk Theme)<br />
+Built with Next.js, Tailwind CSS, TypeScript, and Flexbox.<br />
+Currently a minimalist proof of concept with an implemented Category component.<br />
 
 🖥️ Web Developer Portfolio Website
 React + Framer Motion + Varino font + Cursor.
