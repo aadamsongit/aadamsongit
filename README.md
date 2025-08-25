@@ -34,6 +34,7 @@
 ## Solo Projects
 
 ### ✨ Hashle (Wordle Clone)<br />
+https://github.com/aadamsongit/Hashle-Game<br />
 A Wordle-style game.<br />
 Post-MVP refactoring:<br />
 --Custom Hooks for modular code<br />
