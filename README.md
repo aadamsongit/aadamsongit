@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Amber.
 
-✨ I'm a mostly self-taught developer. 
-✨ From August through December of 2021, I attended Coding Dojo's bootcamp, where I learned to build fullstack applications with Python, React (MERN), and Java with SpringBoot. 
+✨ I'm a mostly self-taught developer.<br />
+✨ From August through December of 2021, I attended Coding Dojo's bootcamp, where I learned to build fullstack applications with Python, React (MERN), and Java with SpringBoot.<br />
 ✨ Through 2022, I continued my studies, obtaining the legacy Responsive Design certification from FreeCodeCamp. I also completed Angela Yu's MERN course via Udemy.
 
 My first big break in tech occurred in early 2023 when I was hired to be part of the Rising Talent IT Automation Team for Takeda Pharmaceuticals, a Fortune 500 global company. I worked there for a year on a contract job. This job ended at the beginning of July, 2024. Since then, I completed my first Scrimba React certification and have spent over half a year building applications and working on open source. 
