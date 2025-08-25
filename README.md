@@ -4,7 +4,7 @@
 ✨ From August through December of 2021, I attended Coding Dojo's bootcamp, where I learned to build fullstack applications with Python, React (MERN), and Java with SpringBoot.<br />
 ✨ Through 2022, I continued my studies, obtaining the legacy Responsive Design certification from FreeCodeCamp. I also completed Angela Yu's MERN course via Udemy.
 
-Work History:
+Work History:<br />
 🎇 June/2022 - September/2022: Junior Email Developer at Covetrus<br />
 🎇 Feb/2023 - May/2023: TEKSystems IT (Network) Automation Bootcamp)<br />
 🎇 June/2024 - July/2024: IT Automation Engineer/Solutions Architect @ Takeda Pharmaceuticals<br />
