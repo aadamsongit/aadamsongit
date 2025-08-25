@@ -4,7 +4,12 @@ I'm a mostly self-taught developer. From August through December of 2021, I atte
 
 My first big break in tech occurred in early 2023 when I was hired to be part of the Rising Talent IT Automation Team for Takeda Pharmaceuticals, a Fortune 500 global company. I worked there for a year on a contract job. This job ended at the beginning of July, 2024. Since then, I completed my first Scrimba React certification and have spent over half a year building applications and working on open source. 
 
-I'm leading a tech stack overhaul at a startup, collaborating on open source, and building solo projects. I'm learning AI, AI dev tools, and agentic features. I generally prefer to use React or Next, but I believe in using the right tool for the circumstance. I have worked professionally with Python. I am looking for ways to pair my automation insights with AI and web dev. 
+Since June, I began working at a pre-seed startup. I'm learning a lot about product and startup culture in addition to code. I'm a web developer and I seek to master everything JS, but I'm also learning system design and I seek to be programming agnostic. 
+
+-------
+
+**Frameworks:** React.js, Next.js, Vue.js (intermediate), Nuxt.js
+
 
 ## About My Work
 
