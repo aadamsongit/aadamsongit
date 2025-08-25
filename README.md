@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Amber.
+## 👋 Hello, I'm Amber, FullStack Developer and Chief Technology Officer
 
 ✨ I'm a mostly self-taught developer.<br />
 ✨ From August through December of 2021, I attended Coding Dojo's bootcamp, where I learned to build fullstack applications with Python, React (MERN), and Java with SpringBoot.<br />
