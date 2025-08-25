@@ -46,10 +46,10 @@ E-Commerce Site (Cyberpunk Theme)<br />
 Built with Next.js, Tailwind CSS, TypeScript, and Flexbox.<br />
 Currently a minimalist proof of concept with an implemented Category component.<br />
 
-### ✨ Web Developer Portfolio Website
-React + Framer Motion + Varino font + Cursor.
-Deployed MVP on Netlify.
-Tailwind CSS setup is in progress — encountering issues related to v4 migration.
+### ✨ Web Developer Portfolio Website<br />
+React + Framer Motion + Varino font + Cursor.<br />
+Deployed MVP on Netlify.<br />
+Tailwind CSS setup is in progress — encountering issues related to v4 migration.<br />
 
 
 
