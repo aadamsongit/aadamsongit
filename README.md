@@ -3,7 +3,7 @@
 ✨ I'm a mostly self-taught **Fullstack Developer**.<br />
 ✨ 4(+) years of experience building with React.js, JavaScript, and Python. I have also worked with Java and C#.</br />
 ✨ From August through December of 2021, I attended Coding Dojo's bootcamp, where I learned to build fullstack applications with Python, React (MERN), and Java with SpringBoot.<br />
-✨ Through 2022, I continued my studies, obtaining the legacy Responsive Design certification from FreeCodeCamp. I also completed Angela Yu's MERN course via Udemy.
+✨ Through 2022, I continued my studies, obtaining the legacy Responsive Design certification from FreeCodeCamp. I also completed Angela Yu's MERN course via Udemy..<br />
 
 Work History:<br />
 🎇 June/2022 - September/2022: Junior Email Developer at Covetrus<br />
