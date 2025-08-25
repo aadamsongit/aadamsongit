@@ -25,7 +25,9 @@
 
 -------
 
-**Frameworks:** React.js, Next.js, Vue.js (intermediate), Nuxt.js
+**Languages:** JavaScript (webdev), Python (network automation+OOP), some Java, some C#.<br />
+**Frameworks:** React.js, Next.js, Vue.js (intermediate), Nuxt.js<br />
+**Learning:** System Design, Three.js, Microservices with Nest.js and Kafka<br />
 
 
 ## Solo Projects
