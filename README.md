@@ -33,7 +33,7 @@
 
 ## Solo Projects
 
-🧠 Hashle (Dev Wordle Clone)
+### ✨ Hashle (Wordle Clone)<br />
 A Wordle-style game.<br />
 Post-MVP refactoring:<br />
 --Custom Hooks for modular code<br />
@@ -41,12 +41,12 @@ Post-MVP refactoring:<br />
 --Attaining OpenSource license (in-progress)<br />
 
 
-🛒 Augment Ascension<br />
+### ✨ Augment Ascension<br />
 E-Commerce Site (Cyberpunk Theme)<br />
 Built with Next.js, Tailwind CSS, TypeScript, and Flexbox.<br />
 Currently a minimalist proof of concept with an implemented Category component.<br />
 
-🖥️ Web Developer Portfolio Website
+### ✨ Web Developer Portfolio Website
 React + Framer Motion + Varino font + Cursor.
 Deployed MVP on Netlify.
 Tailwind CSS setup is in progress — encountering issues related to v4 migration.
