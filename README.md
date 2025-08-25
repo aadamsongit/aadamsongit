@@ -28,10 +28,6 @@
 **Frameworks:** React.js, Next.js, Vue.js (intermediate), Nuxt.js
 
 
-## About My Work
-
-I handle a bit of everything. I'm an engineer with React and frontend, also fullstack, also with a unique teaching/communications background. I've learned enough from my co-collaborating that I think I can lead a project, and my startup work will prove it. 
-
 ## Solo Projects
 
 🧠 Hashle (Dev Wordle Clone)
