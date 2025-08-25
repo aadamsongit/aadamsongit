@@ -35,9 +35,11 @@
 
 🧠 Hashle (Dev Wordle Clone)
 A Wordle-style game.<br />
-Post-MVP refactoring: custom hooks for cleaner, more modular code<br />
-Post-MVP: axe-core added for a11y audit<br />
-Unit tests added. Vitest/Jest/React Testing Library.<br />
+Post-MVP refactoring:<br />
+--Custom Hooks for modular code<br />
+--Responsive audit: in-progress (BrowserStack)<br />
+--Attaining OpenSource license (in-progress)<br />
+
 
 🛒 Augment Ascension<br />
 E-Commerce Site (Cyberpunk Theme)<br />
