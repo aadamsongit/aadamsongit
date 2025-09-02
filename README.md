@@ -50,7 +50,6 @@ Currently a minimalist proof of concept with an implemented Category component.<
 ### ✨ Web Developer Portfolio Website<br />
 React + Framer Motion + Varino font + Cursor.<br />
 Deployed MVP on Netlify.<br />
-Tailwind CSS setup is in progress — encountering issues related to v4 migration.<br />
 
 
 
