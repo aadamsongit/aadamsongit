@@ -10,18 +10,8 @@
 -- Minesweeper 2025, a frontend game built with React<br />
 -- BuiltinPublic, a SaaS application for the developer community, built with DevEx in mind<br />
 
+✨ I began learning programming in 2021 via SheCodes.io and Coding Dojo. I've since completed certificates from FreeCodeCamp, Udemy, Scrimba, and TEKSystems via Coursera.
 
-
-
-
-✨ 4(+) years: React.js, JavaScript, CSS, Python.<br />
-✨ Experienced: TypeScript, Tailwind 3 + 4, PostCSS, PostgreSQL, Firebase, Supabase<br />
-
-### ✨ Certifications <br /><br />
-✨ Aug/2021 - Dec/2021: Coding Dojo Certificate of Completion (Python, React, Java)<br />
-✨ 2022: Legacy Responsive Design (FreeCodeCamp)<br />
-✨ 2023: TEKSystems IT Automation Bootcamp Certificate (Google Coursera: Network Automation with Python)<br />
-✨ 2025: React Scrimba<br />
 
 ### ✨Work History:<br />
 🎇 Jun/2025 - present: CTO at CareHive Maid and Homecare (SaaS)<br />
