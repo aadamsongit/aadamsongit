@@ -1,6 +1,15 @@
 ## 👋 Hello, I'm Amber, FullStack Developer and Chief Technology Officer
 
 ### ✨ I'm a mostly self-taught FullStack Developer. <br /><br />
+✨ I'm currently a contributor for three open source projects: 
+-- Dance Chives, an application to support the breakdancing community
+-- Minesweeper 2025, a frontend game built with React
+-- BuiltinPublic, a SaaS application for the developer community, built with DevEx in mind
+
+
+
+
+
 ✨ 4(+) years: React.js, JavaScript, CSS, Python.<br />
 ✨ Experienced: TypeScript, Tailwind 3 + 4, PostCSS, PostgreSQL, Firebase, Supabase<br />
 
