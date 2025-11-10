@@ -1,6 +1,10 @@
 ## 👋 Hello, I'm Amber, FullStack Developer and Chief Technology Officer
 
 ### ✨ I'm a mostly self-taught FullStack Developer. <br /><br />
+✨ I'm currently working to refactor the MVP for CareHive Maid and Homecare LLC<br />
+-- The frontend MVP can be found here: https://care-hive-mvp.vercel.app/<br />
+-- I am employing Next.js, Framer Motion for animations, and Swiper.js for carousels. <br />
+
 ✨ I'm currently a contributor for three open source projects:<br />
 -- Dance Chives, an application to support the breakdancing community<br />
 -- Minesweeper 2025, a frontend game built with React<br />
