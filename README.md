@@ -10,8 +10,8 @@
 -- Minesweeper 2025, a frontend game built with React<br />
 -- BuiltinPublic, a SaaS application for the developer community, built with DevEx in mind<br />
 
-✨ I began learning programming in 2021 via SheCodes.io and Coding Dojo. I've since earned certificateions from FreeCodeCamp, Udemy, Scrimba, and TEKSystems via Coursera.<br />
--- I have **four years** of cumulative experience with React.js. I have experience with: Python, TypeScript, Next.js, Node.js, Express.js, MongoDB, SQL (mostly PostgreSQL), and unit testing (Jest, Vitest, React Testing Library.
+✨ I began learning programming in 2021 via SheCodes.io and Coding Dojo. I've since earned certifications from FreeCodeCamp, Udemy, Scrimba, and TEKSystems via Coursera.<br />
+-- I have **four years** of cumulative experience with React.js. I have experience with: Python, TypeScript, Tailwind CSS, Next.js, Node.js, Express.js, MongoDB, SQL (mostly PostgreSQL), and unit testing (Jest, Vitest, React Testing Library). My go-to stack is Next or React + Vite with TS and Tailwind.
 
 
 
