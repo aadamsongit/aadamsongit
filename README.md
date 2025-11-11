@@ -10,28 +10,10 @@
 -- Minesweeper 2025, a frontend game built with React<br />
 -- BuiltinPublic, a SaaS application for the developer community, built with DevEx in mind<br />
 
-✨ I began learning programming in 2021 via SheCodes.io and Coding Dojo. I've since completed certificates from FreeCodeCamp, Udemy, Scrimba, and TEKSystems via Coursera.
+✨ I began learning programming in 2021 via SheCodes.io and Coding Dojo. I've since earned certificateions from FreeCodeCamp, Udemy, Scrimba, and TEKSystems via Coursera.<br />
+-- I have **four years** of cumulative experience with React.js. I have experience with: Python, TypeScript, Next.js, Node.js, Express.js, MongoDB, SQL (mostly PostgreSQL), and unit testing (Jest, Vitest, React Testing Library.
 
 
-### ✨Work History:<br />
-🎇 Jun/2025 - present: CTO at CareHive Maid and Homecare (SaaS)<br />
-🎇 Feb/2025 - present: Open Source Maintainer and Contributor<br />
-🎇 June/2024 - July/2024: IT Automation Engineer/Solutions Architect @ Takeda Pharmaceuticals<br />
-🎇 Feb/2023 - May/2023: TEKSystems IT (Network) Automation Bootcamp)<br />
-🎇 June/2022 - September/2022: Junior Email Developer at Covetrus<br />
-
-
-
-### ✨Non-Coding Work History:
-🎇 Dec/2024 - present: Internet Safety Evaluator (Part Time)
-
-
-
--------
-
-**Languages:** JavaScript (webdev), Python (network automation+OOP), some Java, some C#.<br />
-**Frameworks:** React.js, Next.js, Vue.js (intermediate), Nuxt.js<br />
-**Learning:** System Design, Three.js, Microservices with Nest.js and Kafka<br />
 
 -------
 
