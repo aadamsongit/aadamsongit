@@ -14,7 +14,7 @@ Hashle exposed me to several frontend debugging challenges. Coordinating React s
 
 For about a year, I contributed on and off to Dance Chives, an open source dance event platform that has gradually evolved from a social application toward a more data-driven architecture.
 
-One of my larger contributions was a holistic refactor of the Minesweeper game. I applied many of the lessons I had learned while building Hashle, consolidating game state into a single useReducer-based game engine. During the refactor, I identified and fixed a deep-cloning bug, broke apart a monolithic App.tsx component into smaller modules, and extracted reusable logic into pure utility functions. The refactor improved modularity and made the codebase more suitable for testing.
+One of my larger contributions was a holistic refactor of the Minesweeper game (open source by Vinay Gajjar). I applied many of the lessons I had learned while building Hashle, consolidating game state into a single useReducer-based game engine. During the refactor, I identified and fixed a deep-cloning bug, broke apart a monolithic App.tsx component into smaller modules, and extracted reusable logic into pure utility functions. The refactor improved modularity and made the codebase more suitable for testing. Minesweeper is currently ready for testing. 
 
 
 
