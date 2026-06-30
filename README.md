@@ -6,6 +6,8 @@ Hashle was my first end-to-end application that I designed, built, deployed, and
 
 For the animations, I chose vanilla CSS rather than a JavaScript animation library such as Framer Motion. CSS transitions proved sufficient for the interactions I wanted, although I still encountered and resolved several race-condition bugs while refining the UI.
 
+Hashle exposed me to several frontend debugging challenges. Coordinating React state, CSS transitions, and localStorage persistence led to timing-related bugs that required careful reasoning about state updates and rendering behavior. I also relied on complex JavaScript data structures to manage Wordle state transitions, which reinforced the importance of keeping application logic understandable as complexity grows.
+
 
 
 
