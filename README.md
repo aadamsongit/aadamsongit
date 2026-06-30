@@ -30,7 +30,7 @@ Throughout much of 2025, I focused on gaining practical engineering experience t
 
 As my experience grew, my work gradually shifted toward paid engineering opportunities. During 2026, I began taking on contract work, smaller paid software projects, and technical consulting, while also being approached for freelance development opportunities. That progression reinforced my interest in connecting sound engineering decisions with tangible business value, and it strengthened my appreciation for building software that is both technically maintainable and commercially worthwhile.
 
-## Open Source
+## Open Source Philosophy
 
 Open source has been an important part of my development as an engineer. It has given me valuable opportunities to collaborate with other developers, receive mentorship, and contribute to established codebases.
 
