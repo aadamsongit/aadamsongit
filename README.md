@@ -30,12 +30,11 @@ Throughout much of 2025, I focused on gaining practical engineering experience t
 
 As my experience grew, my work gradually shifted toward paid engineering opportunities. During 2026, I began taking on contract work, smaller paid software projects, and technical consulting, while also being approached for freelance development opportunities. That progression reinforced my interest in connecting sound engineering decisions with tangible business value, and it strengthened my appreciation for building software that is both technically maintainable and commercially worthwhile.
 
-## Open Source and Growth 
+## Open Source and Growth
 
 Open source has been an important part of my development as an engineer. It has given me valuable opportunities to collaborate with other developers, receive mentorship, and contribute to established codebases.
 
-Through open source, I've pair programmed, strengthened my Git workflow and development hygiene, and become comfortable working across multiple development environments and AI-assisted tooling, including VS Code, Cursor, and Claude Code. 
+Through open source, I've pair programmed, strengthened my Git workflow and development hygiene, and become comfortable working across multiple development environments and AI-assisted tooling, including VS Code, Cursor, and Claude Code.
 
 Those experiences have reinforced the importance of communication, maintainability, and adapting to established engineering workflows rather than working in isolation.
-
 
