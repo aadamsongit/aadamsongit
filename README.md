@@ -8,6 +8,14 @@ For the animations, I chose vanilla CSS rather than a JavaScript animation libra
 
 Hashle exposed me to several frontend debugging challenges. Coordinating React state, CSS transitions, and localStorage persistence led to timing-related bugs that required careful reasoning about state updates and rendering behavior. I also relied on complex JavaScript data structures to manage Wordle state transitions, which reinforced the importance of keeping application logic understandable as complexity grows.
 
+---
+
+## Open Source Contributions:
+
+For about a year, I contributed on and off to Dance Chives, an open source dance event platform that has gradually evolved from a social application toward a more data-driven architecture.
+
+One of my larger contributions was a holistic refactor of the Minesweeper game. I applied many of the lessons I had learned while building Hashle, consolidating game state into a single useReducer-based game engine. During the refactor, I identified and fixed a deep-cloning bug, broke apart a monolithic App.tsx component into smaller modules, and extracted reusable logic into pure utility functions. The refactor improved modularity and made the codebase more suitable for testing.
+
 
 
 
