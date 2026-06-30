@@ -2,6 +2,10 @@ My first professional software engineering role was a year-long contract as an I
 
 When my contract ended in mid-2024, I decided to deepen my frontend knowledge. I revisited React and modern frontend development before beginning work on my first solo application. From February to July 2025, I built and deployed the MVP for Hashle, a Wordle-inspired game.
 
-Hashle was my first end-to-end application that I designed, built, deployed, and maintained myself. Built with React, it relied heavily on local state management and React Hooks, giving me practical experience reasoning about component state, rendering behavior, and user interactions.
+Hashle was my first end-to-end application that I designed, built, deployed, and maintained myself. Built with React, it relied heavily on local component state and React Hooks, giving me practical experience reasoning about state, rendering behavior, and user interactions. Hashle also achieved excellent Lighthouse scores for performance, accessibility, SEO, and best practices, although I recognize that its relatively simple UI made that easier to accomplish than a larger application.
+
+For the animations, I chose vanilla CSS rather than a JavaScript animation library such as Framer Motion. CSS transitions proved sufficient for the interactions I wanted, although I still encountered and resolved several race-condition bugs while refining the UI.
+
+
 
 
