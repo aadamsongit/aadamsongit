@@ -10,11 +10,12 @@ Hashle exposed me to several frontend debugging challenges. Coordinating React s
 
 ---
 
-## Open Source Contributions:
+## Open Source Contributions
 
-For about a year, I contributed on and off to Dance Chives, an open source dance event platform that has gradually evolved from a social application toward a more data-driven architecture. I initially pair programmed with another contributor in VS Code, working primarily on the frontend. My early contributions included refactoring Tailwind CSS for improved mobile responsiveness and breakpoint behavior, as well as implementing several Neo4j graph relationships. Via Dance Chives, I learned Postgres/Prisma/TypeScript/Tailwind integrations, as well as shadcn and Zod for validation.
+For about a year, I contributed on and off to Dance Chives, an open source dance event platform that has gradually evolved from a social application toward a more data-driven architecture. I initially pair programmed with another contributor in VS Code, working primarily on the frontend. My early contributions included refactoring Tailwind CSS for improved mobile responsiveness and breakpoint behavior, as well as implementing several Neo4j graph relationships. Contributing to the project also gave me hands-on experience working with a modern full-stack architecture built around TypeScript, Prisma, PostgreSQL, Tailwind CSS, shadcn/ui, and Zod for schema validation.
 
 One of my larger contributions was a holistic refactor of the Minesweeper game (originally created by Vinay Gajjar). I applied many of the lessons I had learned while building Hashle, consolidating game state into a single useReducer-based game engine. During the refactor, I identified and fixed a deep-cloning bug, broke apart a monolithic App.tsx component into smaller modules, and extracted reusable logic into pure utility functions. The result was a more modular codebase with clearer separation of concerns and a stronger foundation for automated testing. The refactor is currently ready for testing.
+
 
 
 
