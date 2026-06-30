@@ -23,3 +23,8 @@ Across my projects, I've found that I enjoy reasoning about engineering tradeoff
 I particularly enjoy debugging problems that emerge from the interaction of multiple systems, such as React state, rendering behavior, CSS transitions, persistence, or application architecture. Those experiences have reinforced the value of reducing unnecessary complexity and keeping code understandable as systems evolve.
 
 As my experience has grown, my interests have gradually expanded beyond frontend implementation toward backend architecture, data modeling, testing, and the broader design decisions that shape maintainable software over time.
+
+Throughout much of 2025, I focused on gaining practical engineering experience through open source contributions and equity-based startup work. Those projects gave me the opportunity to build production features, collaborate on established codebases, and take ownership of increasingly complex technical problems.
+
+As my experience grew, my work gradually shifted toward paid engineering opportunities. During 2026, I began taking on contract work, smaller paid software projects, and technical consulting, while also being approached for freelance development opportunities. That progression reinforced my interest in connecting sound engineering decisions with tangible business value, and it strengthened my appreciation for building software that is both technically maintainable and commercially worthwhile.
+
