@@ -16,8 +16,10 @@ For about a year, I contributed on and off to Dance Chives, an open source dance
 
 One of my larger contributions was a holistic refactor of the Minesweeper game (originally created by Vinay Gajjar). I applied many of the lessons I had learned while building Hashle, consolidating game state into a single useReducer-based game engine. During the refactor, I identified and fixed a deep-cloning bug, broke apart a monolithic App.tsx component into smaller modules, and extracted reusable logic into pure utility functions. The result was a more modular codebase with clearer separation of concerns and a stronger foundation for automated testing. The refactor is currently ready for testing.
 
+## Engineering Approach
 
+Across my projects, I've found that I enjoy reasoning about engineering tradeoffs as much as implementing features. Whether choosing vanilla CSS over a JavaScript animation library, consolidating application state into a single game engine, or refactoring code to improve modularity and testability, I'm interested in understanding why one design is preferable to another in a given context.
 
+I particularly enjoy debugging problems that emerge from the interaction of multiple systems, such as React state, rendering behavior, CSS transitions, persistence, or application architecture. Those experiences have reinforced the value of reducing unnecessary complexity and keeping code understandable as systems evolve.
 
-
-
+As my experience has grown, my interests have gradually expanded beyond frontend implementation toward backend architecture, data modeling, testing, and the broader design decisions that shape maintainable software over time.
