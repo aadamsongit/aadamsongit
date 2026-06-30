@@ -16,12 +16,6 @@ For about a year, I contributed on and off to Dance Chives, an open source dance
 
 One of my larger contributions was a holistic refactor of the Minesweeper game (originally created by Vinay Gajjar). I applied many of the lessons I had learned while building Hashle, consolidating game state into a single useReducer-based game engine. During the refactor, I identified and fixed a deep-cloning bug, broke apart a monolithic App.tsx component into smaller modules, and extracted reusable logic into pure utility functions. The result was a more modular codebase with clearer separation of concerns and a stronger foundation for automated testing. The refactor is currently ready for testing.
 
-## Professional: Solo
-
-Throughout much of 2025, I focused on gaining practical engineering experience through open source contributions and equity-based startup work. Those projects gave me the opportunity to build production features, collaborate on established codebases, and take ownership of increasingly complex technical problems.
-
-As my experience grew, my work gradually shifted toward paid engineering opportunities. During 2026, I began taking on contract work, smaller paid software projects, and technical consulting, while also being approached for freelance development opportunities. That progression reinforced my interest in connecting sound engineering decisions with tangible business value, and it strengthened my appreciation for building software that is both technically maintainable and commercially worthwhile.
-
 ## Engineering Approach
 
 Across my projects, I've found that I enjoy reasoning about engineering tradeoffs as much as implementing features. Whether choosing vanilla CSS over a JavaScript animation library, consolidating application state into a single game engine, or refactoring code to improve modularity and testability, I'm interested in understanding why one design is preferable to another in a given context.
