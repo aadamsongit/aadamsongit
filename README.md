@@ -46,6 +46,10 @@ As my experience grew, my work gradually shifted toward paid engineering opportu
 
 ## Open Source
 
-Open source has been an important part of my development as an engineer. It has helped me gain valuable collaborative and mentorship experience.
+Open source has been an important part of my development as an engineer. It has given me valuable opportunities to collaborate with other developers, receive mentorship, and contribute to established codebases.
+
+Through open source, I've pair programmed, strengthened my Git workflow and development hygiene, and become comfortable working across multiple development environments and AI-assisted tooling, including VS Code, Cursor, and Claude Code. 
+
+Those experiences have reinforced the importance of communication, maintainability, and adapting to established engineering workflows rather than working in isolation.
 
 
