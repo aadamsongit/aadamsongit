@@ -13,7 +13,7 @@ Hashle exposed me to several frontend debugging challenges. Coordinating React s
 
 ## Open Source Contributions
 
-For about a year, I contributed on and off to Dance Chives, an open source dance event platform that has gradually evolved from a social application toward a more data-driven architecture. I initially pair programmed with another contributor in VS Code, working primarily on the frontend. My early contributions included refactoring Tailwind CSS for improved mobile responsiveness and breakpoint behavior, as well as implementing several Neo4j graph relationships.
+For about a year, I contributed on and off to Dance Chives, an open source dance event platform that has gradually evolved from a social application toward a more data-driven architecture. I initially pair programmed with the founder in VS Code, working primarily on the frontend. My early contributions included refactoring Tailwind CSS for improved mobile responsiveness and breakpoint behavior, as well as implementing several Neo4j graph relationships.
 
 This project upgraded my experience with modern full stack. I worked with NextJS/shadcn/Prisma/Postgres/Docker/Neo4j/Prisma. I learned containerization and differences in workflow for different environments and data seeding. I got a lot of exposure to tracing props in VSCode, sometimes after iterating with Cursor first. 
 
