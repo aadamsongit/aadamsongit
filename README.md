@@ -1,4 +1,4 @@
-Previous Experience And Projects:
+## Previous Experience And Projects:
 
 [To Update]
 
@@ -7,11 +7,7 @@ Previous Experience And Projects:
 
 ## Open Source Contributions
 
-For about a year, I contributed on and off to Dance Chives, an open source dance event platform that has gradually evolved from a social application toward a more data-driven architecture. I initially pair programmed with the founder in VS Code, working primarily on the frontend. My early contributions included refactoring Tailwind CSS for improved mobile responsiveness and breakpoint behavior, as well as implementing several Neo4j graph relationships.
-
-This project upgraded my experience with modern full stack. I worked with NextJS/shadcn/Prisma/Postgres/Docker/Neo4j/Prisma. I learned containerization and differences in workflow for different environments and data seeding. I got a lot of exposure to tracing props in VSCode, sometimes after iterating with Cursor first. 
-
-One of my larger open source contributions was a holistic refactor of the Minesweeper game (originally created by Vinay Gajjar). I applied many of the lessons I had learned while building Hashle, consolidating game state into a single useReducer-based game engine. During the refactor, I identified and fixed a deep-cloning bug, broke apart a monolithic App.tsx component into smaller modules, and extracted reusable logic into pure utility functions. The result was a more modular codebase with clearer separation of concerns and a stronger foundation for automated testing. The refactor is currently ready for testing.
+To Condense:
 
 ## Engineering Approach
 
