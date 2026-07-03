@@ -11,7 +11,7 @@ To Condense:
 
 ## Engineering Approach
 
-Across my projects, I've found that I enjoy reasoning about engineering tradeoffs as much as implementing features. Whether choosing vanilla CSS over a JavaScript animation library, consolidating application state into a single game engine, or refactoring code to improve modularity and testability, I'm interested in understanding why one design is preferable to another in a given context.
+I enjoy reasoning about engineering tradeoffs as much as implementing features. 
 
 I particularly enjoy debugging problems that emerge from the interaction of multiple systems, such as React state, rendering behavior, CSS transitions, persistence, or application architecture. Those experiences have reinforced the value of reducing unnecessary complexity and keeping code understandable as systems evolve.
 
