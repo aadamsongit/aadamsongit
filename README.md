@@ -1,6 +1,8 @@
-## Previous Experience And Projects:
+## Current/Past Work:
 
-[To Update]
+Feedback Garden - Application for Writers. 
+Mode switchboard *(placeholder title) - Manage ADHD with a mode dashboard
+Role Fit - a personal portfolio (TBD)
 
 ---
 
