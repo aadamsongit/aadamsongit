@@ -9,7 +9,11 @@ I'm a technical professional and full stack developer with a web/frontend emphas
 
 ## 2026 Full Stack / Frontend / Web Applications
 
+Feedback Garden: Tech stack TBA. Eventually aimed to be a community-driven application for sci-fi/fantasy writers/readers, but a lot of product/UX stuff to figure out here. It's currently being re-worked, but productively so.
 
+"Mode Switchboard." Not final name probably. Data-driven application. Own: Prisma schema, scalar and relation fields, enums. Prisma's TypeScript API. TypeScript-as-contract. Foreign keys. Data diagrams. Currently validated first two vertical slices for behavior across data/UI/server (Next.js server actions).
+
+Developer Portfolio: A narrative-driven portfolio that will blend different frontend techniques to present a coherent visual resume with a lot of specifics. Aim to balance visuals with performance and show optimized loveliness with strong developer/technical narrative. 
 
 ## Past Work:
 
