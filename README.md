@@ -4,7 +4,7 @@ I'm a technical professional and full stack developer with a web/frontend emphas
 
 ## 2026 Micro-SaaS
 
-* Tiny Discord bot: use a backend with TS, sqlite db, to quickly scaffold a server for developers to congregate in an organized way. Automate. Prompted to claude. Currently committing and reviewing, then will run some tests and see how this works. If the product works as expected and the server is well-received, I may modify the product to be a tiny free npx package for users to quickly scaffold personal and project Discord servers.
+* Tiny Discord bot: quickly scaffold a server. See if this behavior can be expanded to a micro-SaaS Discord bot to scaffold personal and project servers.
 * Chrome Extension for LinkedIn: I want to see how much I can improve LinkedIn within the parameters of their rules, so this will be a compliant application that will add some of the features many LinkedIn regulars want. I also want to investigation APIs and Chrome extensions here.
 
 ## 2026 Full Stack / Frontend / Web Applications
