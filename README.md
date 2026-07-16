@@ -1,4 +1,6 @@
-## Current/Past Work:
+## Current Work: 
+
+## Past Work:
 
 * 2023-2024: I worked as part of the Rising Talent IT Automation Team at Takeda Pharmaceuticals, a Fortune 500 company. In collaboration with end-users, SMEs (Microsoft PowerApps), and data scientists, my colleagues and I built tools for data retrieval, including a Python chatbot for APMS id retrieval and management which we A/B-tested against a PowerApps tool. I acted as the unit test SME for our team. I oversaw the creation of pytest suites, wrote pytest documentation, and conducted pytest round robin writing sessions with colleagues as a learning exercise.
 
