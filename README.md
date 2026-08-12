@@ -7,7 +7,9 @@ I worked at Takeda from 2023 until 2024, exactly one year, a full contract. Next
 
 I received my Scrimba React certification in early 2025, then built and deployed my first independent application, Hashle, a Wordle-themed game. I deployed Hashle in July of 2025. The whole journey is documented on LinkedIn and Github. After deploying it, I hit a but with the dark mode and mobile, which I quickly fixed. Some later bug fix documentation can be read in the repo below. 2026: I've done a big cleanup pass with QA/testing.
 
-2025: After deploying Hashle, I did some work on an open source project and also did some adjacent work at a very early startup. For the startup, I acted as the CTO (Chief Technology Officer). I performed the recording for the Y Combinator application for CareHive, in additon to auditing the MVP codebase and building a production frontend. In parallel, I worked on Dance Chives, a breakdancing-centered application (open source). 
+## 2025  2026 (Open Source + Startup to Freelancing/Contract Work ##
+
+After deploying Hashle, I did some work on an open source project and also did some adjacent work at a very early startup. For the startup, I acted as the CTO (Chief Technology Officer). I performed the recording for the Y Combinator application for CareHive, in additon to auditing the MVP codebase and building a production frontend. In parallel, I worked on Dance Chives, a breakdancing-centered application (open source). 
 
 
 
