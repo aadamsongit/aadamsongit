@@ -5,7 +5,10 @@ I began learning programming in 2021 via Coding Dojo, a bootcamp. 2022 was a lit
 
 I worked at Takeda from 2023 until 2024, exactly one year, a full contract. Next, I explored a few ideas. I worked with some colleagues to prototype a potential job board ("Ghostbusters-AI") which remained a prototype, then I worked in late 2024 on a Vue/Nuxt.js "Coding Your Career" project for a "Constant Reminders" application. It also never really got that far, but it did give me some Vue/Nuxt experience atop React for frontend. Also, the backend was C#, so I can say I've touched C# a little. The work on this project was mostly late 2024, at the same time as I was working on revisiting React via Scrimba. 
 
-I received my Scrimba React certification in early 2025, then built and deployed my first independent application, Hashle, a Wordle-themed game. I deployed Hashle in July of 2025. The whole journey is documented on LinkedIn and Github. After deploying it, I hit a but with the dark mode and mobile, which I quickly fixed. Some later bug fix documentation can be read in the repo below. 2026: I've done a big cleanup pass with QA/testing. 
+I received my Scrimba React certification in early 2025, then built and deployed my first independent application, Hashle, a Wordle-themed game. I deployed Hashle in July of 2025. The whole journey is documented on LinkedIn and Github. After deploying it, I hit a but with the dark mode and mobile, which I quickly fixed. Some later bug fix documentation can be read in the repo below. 2026: I've done a big cleanup pass with QA/testing.
+
+2025: After deploying Hashle, I did some work on an open source project and also did some adjacent work at a very early startup. For the startup, I acted as the CTO (Chief Technology Officer). I performed the recording for the Y Combinator application for CareHive, in additon to auditing the MVP codebase and building a production frontend. In parallel, I worked on Dance Chives, a breakdancing-centered application (open source). 
+
 
 
 
