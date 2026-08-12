@@ -29,9 +29,19 @@ At Takeda, my team built tools to retrieve data from SharePoint API endpoints an
 
 ## 2023-2024 Frontend (vanilla CSS) / Hobby Work
 
-Through 2024, I was also working on a personal projecting for Dreamwidth. This was begun in 2023. This project involved quite a bit of vanilla CSS work, as Dreamwidth does not allow JavaScript work. I was working on this at night while doing IT Automation with Python during the day. Working on a Dreamwidth project with vanilla CSS, I learned all about CSS animations and techniques. I now use Tailwind in my professional builds. 
+Through 2024, I was also working on a personal projecting for Dreamwidth. This was begun in 2023. This project involved quite a bit of vanilla CSS work, as Dreamwidth does not allow JavaScript work. I was working on this at night while doing IT Automation with Python during the day. Working on a Dreamwidth project with vanilla CSS, I learned all about CSS animations and techniques. I now use Tailwind in my professional builds. (This hobby work as also somewhat product-centric, but that's another story for later, when I'm ready to reveal more.)
 
-## 2025  2026 (Open Source + Startup to Freelancing/Contract Work ##
+## 2024 Post-Takeda - Return to Frontend (through present)
+
+The Takeda role ended in mid-2024. Before Takeda, I'd been focusing on React, so I decided to orient back towards React. I completed Scrimba and did some work with Vue and Nuxt (Coding Your Career project, "Constant Reminders"). The latter half of 2024 was spent deciding whether to really focus on React, but I decided to begin with this entry point. I did a lot of work with Scrimba to get back up to speed on React.
+
+## Early-Mid 2025: Hashle
+
+I spent late 2024 through early 2025 completing Scrimba. After building the capstone projects, I built and deployed my Wordle game, Hashle. This game was built with React hooks. The repo is below. As of 2026, it has 31 Playwright tests and 24 unit/accessibility tests. I've also smoke tested it.
+
+Hashle is an updated case study. The CSS has been cleaned up. It's now consistent Tailwind, and I've fixed a bunch of hidden bugs.
+
+## Mid-2025 - Early 2026 (Startup + Open Source)
 
 After deploying Hashle, I did some work on an open source project (Dance Chives, beginning in April 2025) and also did some adjacent work at a very early startup (CareHive Maid and Homecare LLC). For the startup, I acted as the CTO (Chief Technology Officer). I performed the recording for the Y Combinator application for CareHive, in additon to auditing the MVP codebase and building a production frontend. In parallel, I worked on Dance Chives, a breakdancing-centered application (open source).
 
