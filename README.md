@@ -15,9 +15,14 @@ My work can be found in the below repos. Please visit them for frontend/full sta
 
 Beginning in 2026, I began formally freelancing. I've built small projects for buisness owners (a Craigslist clone for a real end-user). I'm currently building a Python automation tool for a friend. I've built AI agents for Claude Code. I know all about spec-driven development, RAG, MCP, Claude Code, Cursor, and Github Co-Pilot, as well as React, frontend, UI/UX, full stack, and so on. I have some experience with regression testing and stress testing my builds. Also: smoke tests, QA, E2E. Playwright, Jest, Vitest, axe-core. I've touched some PHP because the startup codebase was built with PHP, and I studied Laravel with a colleague, plus I've done some reading on the documentation. With AI, I also am confident to work in any language as I develop programming agnostic skills. 
 
-## Where I stand with Open Source in 2026 @@
+## Where I stand with Open Source in 2026 ##
 
 Open source is an interesting thing. I truly think I embody open source. I spoke at OpenSource Nest. My game, Hashle, is open source. Some of my other work is open source. Dance Chives is open source. Minesweeper is open source. BuiltinPublic is open source, though I think it's in limbo for the foreseeable future. But also, a ton of things people use every day are open source. I'm a big believer in open source. 
+
+But let's face it. Open source can be a bit of a time commitment. Here are some open source repos I've been looking at.
+
+**Dreamwidth**: I have a certain fondness for Dreamwidth because it plays host to Internet roleplay. It's definitely one of those labor of love applications. But it's written in legacy Perl. I'm a little fascinated by that sort of codebase. It's so different from what I would usually experience.
+**AppWrite**: AppWrite used to let you apply for a job and submit your own job idea. They seem to have closed their doors, but their app is open source? Well, that's interesting. Might be worth exploring. 
 
 
 
