@@ -30,7 +30,13 @@ In general, I'm looking to move away from volunteer open source work and towards
 
 Currently, I am doing project and freelancing/contract work. From 2024 through present, I worked on TELUS International (Internet Safety), Usertesting, User Interviews, Respondent.io, Dscout (paid UX/UI feedback), alongside the dev work for the startup and open source in 2025. From the relationships I built (networking), I got some work in QA, freelancing, etc.
 
-Early 2026, built two AI agents for a colleague: Git session hygiene agent and an agent with deterministic/non-deterministic reasoning for frontend/UI orchestration. (Deterministic: globals.css, non-deterministic, developing ideas about UI/design patterns). The UI agent involved multi-agent orchestration and delegating to subagents for the workflow and was 4.5x more stress tested than the Git session hygiene agent, including a debugging playbook. 
+Early 2026, built two AI agents for a colleague: Git session hygiene agent and an agent with deterministic/non-deterministic reasoning for frontend/UI orchestration. (Deterministic: globals.css, non-deterministic, developing ideas about UI/design patterns). The UI agent involved multi-agent orchestration and delegating to subagents for the workflow and was 4.5x more stress tested than the Git session hygiene agent, including a debugging playbook. I encountered and documented bugs with these agents. For example, the Git session hygiene agent ended up running on the CLI with Claude Code, then the UI agent flagged a bug that was a feature. I interrogated these behaviors and documented the findings. I've since refined the UI agent per my design sensibilities.
+
+Built a Craigslist-style site for local business listing for a client using Supabase with Next.js. Have had to implement handling for Supabase footguns (Supabase disables sites, big issue). Currently trying to pre-empt this, but it's a bit of a tricky issue. In the future, probably not using Supabase with builds. Prefer Postgres with Prisma?
+
+Currently building a Python tool for a friend to automate a browser to scrape Dreamwidth entries using Playwright + Python. This is a small freelancing project.
+
+Currently working on project work for AI mainly on Mercor. Sometimes @ Micro1, TELUS International, Handshake AI. So I'm doing a mix of freelancing and project work. I'm TypeScript-certified on Micro1 and have a cert via Scrimba. 
 
 
 
