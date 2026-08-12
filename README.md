@@ -26,6 +26,12 @@ But let's face it. Open source can be a bit of a time commitment. Here are some 
 
 In general, I'm looking to move away from volunteer open source work and towards paid work. However, open source has been a valuable part of my experience.
 
+## Freelancing (2026 - present) ##
+
+Currently, I am doing project and freelancing/contract work. From 2024 through present, I worked on TELUS International (Internet Safety), Usertesting, User Interviews, Respondent.io, Dscout (paid UX/UI feedback), alongside the dev work for the startup and open source in 2025. From the relationships I built (networking), I got some work in QA, freelancing, etc.
+
+Early 2026, built two AI agents for a colleague: Git session hygiene agent and an agent with deterministic/non-deterministic reasoning for frontend/UI orchestration. (Deterministic: globals.css, non-deterministic, developing ideas about UI/design patterns). The UI agent involved multi-agent orchestration and delegating to subagents for the workflow and was 4.5x more stress tested than the Git session hygiene agent, including a debugging playbook. 
+
 
 
 
