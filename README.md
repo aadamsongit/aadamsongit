@@ -49,6 +49,14 @@ In April of 2025, I began working with Ben Chi on his application, Dance Chives.
 
 After the application was deployed, we encounter a cache bug. We weighed the tradeoffs for SSR or SSG and decided on ISR with revalidation as a middle solution for the cache bug. Ben implmented this solution, but I discussed it at the time. As a result of this bug fix, I can articulate SSR, SSG, ISR, and revalidation. I'm quite experienced with Next.js in addition to React. 
 
+Dance Chives has been a genuine small team project. Ben and I worked with other collaborators, including a UI designer who also did the logo. Currently, everything is on the staging layer (as the app is being overhauled), so I'm pulling the images to show my work.
+
+## Startup (CareHive Maid and HomeCare LLC, mid-2025 through about end of year 2025)
+
+Reached out to by founder (Chanda Phiri) for a Chief Technology Office role at Carehive, a startup out of Zambia. The original MVP codebase for CareHive was not built by me and is JS with PHP. Using Cursor, I refactored a few frontend pages and forms to Next.js. Another developer implemented Subaase for our BaaS/db solution. I then built a frontend with glassmorphism, Next.js, Swiper.js, and Framer Motion. I optimized the Lighthouse scores for the frontend, improving them from 75% on Performance/etc. up to consistent 99/100% numbers across the board. Optimized a hero MP4 video with AWS S3 bucket and FFMPEG. Reduced asset size by 50% and served with a Cloudfront CDN. 
+
+Around end of year 2025, stepped away from startup work to prioritize open source, as there was a lot of technical mentorship involved.
+
 
 ## Where I stand with Open Source in 2026 ##
 
