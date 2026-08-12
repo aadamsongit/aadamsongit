@@ -3,6 +3,10 @@ I'm a Frontend-Focused Full Stack Engineer with 5+ years of experience with Java
 
 I began learning programming in 2021 via Coding Dojo, a bootcamp. 2022 was a little rocky for me. I spent a lot of time upskilling in JavaScript via Udemy and FreeCodeCamp while doing a brief stint as an email developer. Then, in 2023, I was hired at Takeda Pharmaceuticals, a Fortune 500 company, as an IT Automation Engineer. I worked with 7 other engineers as part of the Rising Talent IT Automation Team. We built internal tools with Python and PowerBI and learnt automation rapidly. I was the pytest SME, responsible for writing and helping to oversee pytests for a Python based chatbot (OpenAI library via Microsoft Azure). 
 
+I worked at Takeda from 2023 until 2024, exactly one year, a full contract. Next, I explored a few ideas. I worked with some colleagues to prototype a potential job board ("Ghostbusters-AI") which remained a prototype, then I worked in late 2024 on a Vue/Nuxt.js "Coding Your Career" project for a "Constant Reminders" application. It also never really got that far, but it did give me some Vue/Nuxt experience atop React for frontend. Also, the backend was C#, so I can say I've touched C# a little. The work on this project was mostly late 2024, at the same time as I was working on revisiting React via Scrimba. 
+
+I received my Scrimba React certification in early 2025, then built and deployed my first independent application, Hashle, a Wordle-themed game. I deployed Hashle in July of 2025. The whole journey is documented on LinkedIn and Github. After deploying it, I hit a but with the dark mode and mobile, which I quickly fixed. Some later bug fix documentation can be read in the repo below. 2026: I've done a big cleanup pass with QA/testing. 
+
 
 
 
