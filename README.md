@@ -7,7 +7,11 @@ I'm a **Frontend-Focused Full Stack Engineer with 5+ years of experience with Ja
 * Through 2022, I continued upskilling with Udemy (Angela Yu) and FreeCodeCamp for JavaScript and React while working briefly as an email developer.
 * In early 2023, I was approached by a recruiter from TEKSystems for a role with Takeda Pharmaceuticals in Exton, PA. I worked at Takeda from summer of 2023 until summer of 2024 as an IT Automation Engineer. My team built internal tools, such as a Python chatbot for APMS id retrieval and management.
 * 2024, after Takeda: Experimented with some prototypes with colleagues (late 2024), then focused on React (Scrimba)
-* 2025: Hashle, then work on open source + startup (Full Stack with Frontend focus)
+* 2025: Hashle, then work on open source + startup (Full Stack with Frontend focus) 2025, I worked on open source and a startup. These applications were production grade, full stack in nature.
+* 2026: Currently freelancing and doing contract, project, consulting work. Open to full time, see below.
+
+____________________________________________________________________________________________________________________________________________________________
+
 
 After Takeda, I worked with some colleagues to prototype a potential job board ("Ghostbusters-AI") which remained a prototype, then I worked in late 2024 on a Vue/Nuxt.js "Coding Your Career" project for a "Constant Reminders" application. It also never really got that far, but it did give me some Vue/Nuxt experience atop React for frontend. Also, the backend was C#, so I can say I've touched C# a little. The work on this project was mostly late 2024, at the same time as I was working on revisiting React via Scrimba. 
 
