@@ -38,6 +38,12 @@ Currently building a Python tool for a friend to automate a browser to scrape Dr
 
 Currently working on project work for AI mainly on Mercor. Sometimes @ Micro1, TELUS International, Handshake AI. So I'm doing a mix of freelancing and project work. I'm TypeScript-certified on Micro1 and have a cert via Scrimba. 
 
+## Open to Work!
+
+I'm now beginning to look for FT roles again. I'm open to onsite within about 15 miles of Norristown, PA. I'm open to hybrid that's about as far as Takeda (which was in Exton, PA). So no Pittsburgh or out of state. I'm in Pennsylvania, Norristown. 
+
+Local employers, like Vanguard, are welcome! I'm mostly a full stack developer with an emphasis on frontend, but I'm also good with other kinds of roles. I'm certainly very open to remote or a nice hybrid workplace. I'm open to contract and shorter-term arrangements. I'm open to other roles, like Solutions Engineer or QA/Test Engineer or DevRel, for example. I have a lot of background working with people, from stakeholders at enterprise companies to early stage founders. So I'm very open to CX Engineer or DevRel roles or Solutions Engineer in addition to Full Stack or Frontend engineer. I have a lot of product/systems experience.
+
 
 
 
