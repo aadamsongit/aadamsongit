@@ -39,15 +39,10 @@ The Takeda role ended in mid-2024. Before Takeda, I'd been focusing on React, so
 
 I spent late 2024 through early 2025 completing Scrimba. After building the capstone projects, I built and deployed my Wordle game, Hashle. This game was built with React hooks. The repo is below. As of 2026, it has 31 Playwright tests and 24 unit/accessibility tests. I've also smoke tested it.
 
-Hashle is an updated case study. The CSS has been cleaned up. It's now consistent Tailwind, and I've fixed a bunch of hidden bugs.
+Hashle is an updated case study. The CSS has been cleaned up. It's now consistent Tailwind, and I've fixed a bunch of hidden bugs. 
 
-## Mid-2025 - Early 2026 (Startup + Open Source)
+**Please see the repo below.**
 
-After deploying Hashle, I did some work on an open source project (Dance Chives, beginning in April 2025) and also did some adjacent work at a very early startup (CareHive Maid and Homecare LLC). For the startup, I acted as the CTO (Chief Technology Officer). I performed the recording for the Y Combinator application for CareHive, in additon to auditing the MVP codebase and building a production frontend. In parallel, I worked on Dance Chives, a breakdancing-centered application (open source).
-
-My work can be found in the below repos. Please visit them for frontend/full stack experience documented.
-
-Beginning in 2026, I began formally freelancing. I've built small projects for buisness owners (a Craigslist clone for a real end-user). I'm currently building a Python automation tool for a friend. I've built AI agents for Claude Code. I know all about spec-driven development, RAG, MCP, Claude Code, Cursor, and Github Co-Pilot, as well as React, frontend, UI/UX, full stack, and so on. I have some experience with regression testing and stress testing my builds. Also: smoke tests, QA, E2E. Playwright, Jest, Vitest, axe-core. I've touched some PHP because the startup codebase was built with PHP, and I studied Laravel with a colleague, plus I've done some reading on the documentation. With AI, I also am confident to work in any language as I develop programming agnostic skills. 
 
 ## Where I stand with Open Source in 2026 ##
 
