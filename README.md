@@ -43,6 +43,10 @@ Hashle is an updated case study. The CSS has been cleaned up. It's now consisten
 
 **Please see the repo below.**
 
+## Open Source (Dance Chives) from April 2025 through ? 2026(?)
+
+In April of 2025, I began working with Ben Chi on his application, Dance Chives. This is an open source application. Originally, it was intended to be a social media application, but it's now data-driven. The application is Next.js with Prisma and Postgres. I was present and helped to ideate the RBAC/ABAC (authorization) system with Postgres for this application. While working on it, I debugged Docker/Postgres/Prisma bugs and gained experience with containerization, as we used Docker for Postgres with Neo4j (a dual database setup). In the early days of open source collaboration, I was writing Neo4J queries and testing them with the aura console and also helping with Tailwind and responsive design. Later, we moved to Cursor and I built vertical slice features. I built a poster upload background feature with React Colorful, a "save events" feature with a custom hook and a server action mutation. I've reviewed the "saved events" feature for systems design and am happy to discuss the implementation for Full Stack interviews.
+
 
 ## Where I stand with Open Source in 2026 ##
 
