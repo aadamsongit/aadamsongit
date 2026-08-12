@@ -9,7 +9,9 @@ I received my Scrimba React certification in early 2025, then built and deployed
 
 ## 2025  2026 (Open Source + Startup to Freelancing/Contract Work ##
 
-After deploying Hashle, I did some work on an open source project and also did some adjacent work at a very early startup. For the startup, I acted as the CTO (Chief Technology Officer). I performed the recording for the Y Combinator application for CareHive, in additon to auditing the MVP codebase and building a production frontend. In parallel, I worked on Dance Chives, a breakdancing-centered application (open source). 
+After deploying Hashle, I did some work on an open source project (Dance Chives, beginning in April 2025) and also did some adjacent work at a very early startup (CareHive Maid and Homecare LLC). For the startup, I acted as the CTO (Chief Technology Officer). I performed the recording for the Y Combinator application for CareHive, in additon to auditing the MVP codebase and building a production frontend. In parallel, I worked on Dance Chives, a breakdancing-centered application (open source).
+
+My work here demonstrates frontend and full stack engineering experience. 
 
 
 
