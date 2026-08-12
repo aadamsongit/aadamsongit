@@ -11,7 +11,9 @@ I received my Scrimba React certification in early 2025, then built and deployed
 
 After deploying Hashle, I did some work on an open source project (Dance Chives, beginning in April 2025) and also did some adjacent work at a very early startup (CareHive Maid and Homecare LLC). For the startup, I acted as the CTO (Chief Technology Officer). I performed the recording for the Y Combinator application for CareHive, in additon to auditing the MVP codebase and building a production frontend. In parallel, I worked on Dance Chives, a breakdancing-centered application (open source).
 
-My work here demonstrates frontend and full stack engineering experience. 
+My work can be found in the below repos. Please visit them for frontend/full stack experience documented.
+
+Beginning in 2026, I began formally freelancing. I've built small projects for buisness owners (a Craigslist clone for a real end-user). I'm currently building a Python automation tool for a colleague. I've built AI agents for Claude Code. I know all about spec-driven development, RAG, MCP, Claude Code, Cursor, and Github Co-Pilot, as well as React, frontend, UI/UX, full stack, and so on. I have some experience with regression testing and stress testing my builds. Also: smoke tests, QA, E2E. Playwright, Jest, Vitest, axe-core. 
 
 
 
