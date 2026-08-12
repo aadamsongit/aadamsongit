@@ -24,6 +24,8 @@ But let's face it. Open source can be a bit of a time commitment. Here are some 
 **Dreamwidth**: I have a certain fondness for Dreamwidth because it plays host to Internet roleplay. It's definitely one of those labor of love applications. But it's written in legacy Perl. I'm a little fascinated by that sort of codebase. It's so different from what I would usually experience.
 **AppWrite**: AppWrite used to let you apply for a job and submit your own job idea. They seem to have closed their doors, but their app is open source? Well, that's interesting. Might be worth exploring. 
 
+In general, I'm looking to move away from volunteer open source work and towards paid work. However, open source has been a valuable part of my experience.
+
 
 
 
