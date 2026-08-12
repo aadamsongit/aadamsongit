@@ -1,5 +1,5 @@
 
-I'm a **Frontend-Focused Full Stack Engineer with 5+ years of experience with JavaScript, React, Python, and Java.**. Most of my work has been with JavaScript/TypeScript and React/Next.js, but I've also worked with Python in the context of network automation and data analytics, along with IT, automation, and AI work. I learned Java in 2021 but have not worked with it much since. I touched C# briefly in one project in 2024. I'm willing to work with either, or PHP, which I've also touched in the context of a legacy startup codebase (I was refactoring with Cursor and Next.js).
+I'm a **Frontend-Focused Full Stack Engineer with 5+ years of experience with JavaScript, React, Python, and Java.** Most of my work has been with JavaScript/TypeScript and React/Next.js, but I've also worked with Python in the context of network automation and data analytics, along with IT, automation, and AI work. I learned Java in 2021 but have not worked with it much since. I touched C# briefly in one project in 2024. I'm willing to work with either, or PHP, which I've also touched in the context of a legacy startup codebase (I was refactoring with Cursor and Next.js).
 
 ## Engineer Timeline (2021 - Present)
 
