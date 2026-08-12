@@ -13,7 +13,11 @@ After deploying Hashle, I did some work on an open source project (Dance Chives,
 
 My work can be found in the below repos. Please visit them for frontend/full stack experience documented.
 
-Beginning in 2026, I began formally freelancing. I've built small projects for buisness owners (a Craigslist clone for a real end-user). I'm currently building a Python automation tool for a colleague. I've built AI agents for Claude Code. I know all about spec-driven development, RAG, MCP, Claude Code, Cursor, and Github Co-Pilot, as well as React, frontend, UI/UX, full stack, and so on. I have some experience with regression testing and stress testing my builds. Also: smoke tests, QA, E2E. Playwright, Jest, Vitest, axe-core. I've touched some PHP because the startup codebase was built with PHP, and I studied Laravel with a colleague, plus I've done some reading on the documentation. With AI, I also am confident to work in any language as I develop programming agnostic skills. 
+Beginning in 2026, I began formally freelancing. I've built small projects for buisness owners (a Craigslist clone for a real end-user). I'm currently building a Python automation tool for a friend. I've built AI agents for Claude Code. I know all about spec-driven development, RAG, MCP, Claude Code, Cursor, and Github Co-Pilot, as well as React, frontend, UI/UX, full stack, and so on. I have some experience with regression testing and stress testing my builds. Also: smoke tests, QA, E2E. Playwright, Jest, Vitest, axe-core. I've touched some PHP because the startup codebase was built with PHP, and I studied Laravel with a colleague, plus I've done some reading on the documentation. With AI, I also am confident to work in any language as I develop programming agnostic skills. 
+
+## Where I stand with Open Source in 2026 @@
+
+Open source is an interesting thing. I truly think I embody open source. I spoke at OpenSource Nest. My game, Hashle, is open source. Some of my other work is open source. Dance Chives is open source. Minesweeper is open source. BuiltinPublic is open source, though I think it's in limbo for the foreseeable future. But also, a ton of things people use every day are open source. I'm a big believer in open source. 
 
 
 
