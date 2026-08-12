@@ -44,6 +44,31 @@ I'm now beginning to look for FT roles again. I'm open to onsite within about 15
 
 Local employers, like Vanguard, are welcome! I'm mostly a full stack developer with an emphasis on frontend, but I'm also good with other kinds of roles. I'm certainly very open to remote or a nice hybrid workplace. I'm open to contract and shorter-term arrangements. I'm open to other roles, like Solutions Engineer or QA/Test Engineer or DevRel, for example. I have a lot of background working with people, from stakeholders at enterprise companies to early stage founders. So I'm very open to CX Engineer or DevRel roles or Solutions Engineer in addition to Full Stack or Frontend engineer. I have a lot of product/systems experience.
 
+Technical professional: data, QA, testing, IT, full stack, frontend.
+
+Frontend: UI/React/JS/TS/browser internals.
+
+Full stack: Backend/db ownership, E2E application ownership, systems.
+
+Also, I'm a product-centric engineer. I'm open to consulting, contract, freelance, and full time. Here are some other companies that interest me:
+
+Blue Sky (culture)
+Zapier (culture)
+n8n (automation)
+AppWrite (if it re-opens)
+Linear: GraphQL exploration, also potentially interesting tooling
+Notion
+Pinterest
+
+And product spaces:
+
+Social media (product space)
+Writer apps
+Fintech -- I'm open-minded with data nowadays, as a more mature engineer
+AI tooling (hence Zapier, also automation)
+
+I'm currently an indie developer building products. I'm interested in startups, as well as established copanies. I know there are fewer remote opportunities, but I think I can make a good case for myself. But I'm also open to hybrid or even onsite if it's very close. I've been doing a lot of fully remote work for a long time and a little in person might actually be nice, so a short term contract or contract to hire? Absolutely fine. 
+
 
 
 
