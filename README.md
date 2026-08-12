@@ -57,62 +57,14 @@ Reached out to by founder (Chanda Phiri) for a Chief Technology Office role at C
 
 Around end of year 2025, stepped away from startup work to prioritize open source, as there was a lot of technical mentorship involved.
 
+## Other 2025 Work, Fall MCP Hackathon and Minesweeper
 
-## Where I stand with Open Source in 2026 ##
+I refactored Vinay Gajjar's open source Minesweeper game into a useReducer() game engine with the utils file split for modularity, making the app testable. I've stayed in the Discord and continued to mentor developers on the project. In fall of 2025, I participated in a hackathon for MCP and agentic AI (spec-driven development). 
 
-Open source is an interesting thing. I truly think I embody open source. I spoke at OpenSource Nest. My game, Hashle, is open source. Some of my other work is open source. Dance Chives is open source. Minesweeper is open source. BuiltinPublic is open source, though I think it's in limbo for the foreseeable future. But also, a ton of things people use every day are open source. I'm a big believer in open source. 
+The result is here:
 
-But let's face it. Open source can be a bit of a time commitment. Here are some open source repos I've been looking at.
+https://www.aadamson.dev/
 
-**Dreamwidth**: I have a certain fondness for Dreamwidth because it plays host to Internet roleplay. It's definitely one of those labor of love applications. But it's written in legacy Perl. I'm a little fascinated by that sort of codebase. It's so different from what I would usually experience.
-**AppWrite**: AppWrite used to let you apply for a job and submit your own job idea. They seem to have closed their doors, but their app is open source? Well, that's interesting. Might be worth exploring. 
+I built this blog with a Next.js template and wrote about what I learned while doing the hackathon.
 
-In general, I'm looking to move away from volunteer open source work and towards paid work. However, open source has been a valuable part of my experience.
-
-## Freelancing (2026 - present) ##
-
-Currently, I am doing project and freelancing/contract work. From 2024 through present, I worked on TELUS International (Internet Safety), Usertesting, User Interviews, Respondent.io, Dscout (paid UX/UI feedback), alongside the dev work for the startup and open source in 2025. From the relationships I built (networking), I got some work in QA, freelancing, etc.
-
-Early 2026, built two AI agents for a colleague: Git session hygiene agent and an agent with deterministic/non-deterministic reasoning for frontend/UI orchestration. (Deterministic: globals.css, non-deterministic, developing ideas about UI/design patterns). The UI agent involved multi-agent orchestration and delegating to subagents for the workflow and was 4.5x more stress tested than the Git session hygiene agent, including a debugging playbook. I encountered and documented bugs with these agents. For example, the Git session hygiene agent ended up running on the CLI with Claude Code, then the UI agent flagged a bug that was a feature. I interrogated these behaviors and documented the findings. I've since refined the UI agent per my design sensibilities.
-
-Built a Craigslist-style site for local business listing for a client using Supabase with Next.js. Have had to implement handling for Supabase footguns (Supabase disables sites, big issue). Currently trying to pre-empt this, but it's a bit of a tricky issue. In the future, probably not using Supabase with builds. Prefer Postgres with Prisma?
-
-Currently building a Python tool for a friend to automate a browser to scrape Dreamwidth entries using Playwright + Python. This is a small freelancing project.
-
-Currently working on project work for AI mainly on Mercor. Sometimes @ Micro1, TELUS International, Handshake AI. So I'm doing a mix of freelancing and project work. I'm TypeScript-certified on Micro1 and have a cert via Scrimba. 
-
-## Open to Work!
-
-I'm now beginning to look for FT roles again. I'm open to onsite within about 15 miles of Norristown, PA. I'm open to hybrid that's about as far as Takeda (which was in Exton, PA). So no Pittsburgh or out of state. I'm in Pennsylvania, Norristown. 
-
-Local employers, like Vanguard, are welcome! I'm mostly a full stack developer with an emphasis on frontend, but I'm also good with other kinds of roles. I'm certainly very open to remote or a nice hybrid workplace. I'm open to contract and shorter-term arrangements. I'm open to other roles, like Solutions Engineer or QA/Test Engineer or DevRel, for example. I have a lot of background working with people, from stakeholders at enterprise companies to early stage founders. So I'm very open to CX Engineer or DevRel roles or Solutions Engineer in addition to Full Stack or Frontend engineer. I have a lot of product/systems experience.
-
-Technical professional: data, QA, testing, IT, full stack, frontend.
-
-Frontend: UI/React/JS/TS/browser internals.
-
-Full stack: Backend/db ownership, E2E application ownership, systems.
-
-Also, I'm a product-centric engineer. I'm open to consulting, contract, freelance, and full time. Here are some other companies that interest me:
-
-Blue Sky (culture)
-Zapier (culture)
-n8n (automation)
-AppWrite (if it re-opens)
-Linear: GraphQL exploration, also potentially interesting tooling
-Notion
-Pinterest
-
-And product spaces:
-
-Social media (product space)
-Writer apps
-Fintech -- I'm open-minded with data nowadays, as a more mature engineer
-AI tooling (hence Zapier, also automation)
-
-I'm currently an indie developer building products. I'm interested in startups, as well as established copanies. I know there are fewer remote opportunities, but I think I can make a good case for myself. But I'm also open to hybrid or even onsite if it's very close. I've been doing a lot of fully remote work for a long time and a little in person might actually be nice, so a short term contract or contract to hire? Absolutely fine. 
-
-
-
-
-
+## 2026... and this is where I look for paid and potentially full time work
