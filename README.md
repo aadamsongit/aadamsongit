@@ -13,9 +13,15 @@ I'm a **Frontend-Focused Full Stack Engineer with 5+ years of experience with Ja
 ____________________________________________________________________________________________________________________________________________________________
 
 
-After Takeda, I worked with some colleagues to prototype a potential job board ("Ghostbusters-AI") which remained a prototype, then I worked in late 2024 on a Vue/Nuxt.js "Coding Your Career" project for a "Constant Reminders" application. It also never really got that far, but it did give me some Vue/Nuxt experience atop React for frontend. Also, the backend was C#, so I can say I've touched C# a little. The work on this project was mostly late 2024, at the same time as I was working on revisiting React via Scrimba. 
+## 2021 (Expanded)
 
-I received my Scrimba React certification in early 2025, then built and deployed my first independent application, Hashle, a Wordle-themed game. I deployed Hashle in July of 2025. The whole journey is documented on LinkedIn and Github. After deploying it, I hit a but with the dark mode and mobile, which I quickly fixed. Some later bug fix documentation can be read in the repo below. 2026: I've done a big cleanup pass with QA/testing.
+In 2021, I began learning coding. I learned HTML, CSS, and JS via SheCodes.io, a 3-week course. I built some small projects. I then did a coding bootcamp (Coding Dojo), August to December (2021). At Coding Dojo, I learned to built Full Stack applications (CRUD) with Python, Java, and React (JavaScript/TypeScript). Specifically, I learned "MERN" (React with Express, MongoDB, and Node.js).
+
+## 2022 (Post-bootcamp)
+
+In 2022, I began seeking my first tech role. I landed a role as a junior email developer in June of 2022, but it was brief (ended September 2022). At the role, I learned A/B testing in a rapid production workflow. Meanwhile, I was continuing to refine frontend, specifically JS and React. I was working on Udemy courses (Angela Yu) for React and doing FreeCodeCamp work for JavaScript. I had decided I really wanted to be a React/frontend developer, but at this point (2022), I still had nothing deployed for my portfolio. I was still doing tutorials.
+
+## 2023-2024 Takeda (IT Automation)
 
 ## 2025  2026 (Open Source + Startup to Freelancing/Contract Work ##
 
