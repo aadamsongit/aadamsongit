@@ -27,6 +27,10 @@ Early 2023, I was approached by a recruiter for TEKSystems for a role as an IT A
 
 At Takeda, my team built tools to retrieve data from SharePoint API endpoints and, in general, we handled a lot of data related to internal information and tooling. We did quite a bit of work with Python, PowerBI, and Microsoft Power Automate. In 2024, my team built a Python chatbot (OpenAI via Microsoft Azure) for APMS id retrieval and management, comparing it against a tool from Microsoft Power Automate. We coordinated with data scientists and Power Automate SMEs. I coordinated the pytest suite, achieving 100% build coverage for the Python chatbot. My team wrote pytests and unit tests together with my guidance, and I also wrote documentation for pytest in the company Jira. 
 
+## 2023-2024 Frontend (vanilla CSS) / Hobby Work
+
+Through 2024, I was also working on a personal projecting for Dreamwidth. This was begun in 2023. This project involved quite a bit of vanilla CSS work, as Dreamwidth does not allow JavaScript work. I was working on this at night while doing IT Automation with Python during the day. Working on a Dreamwidth project with vanilla CSS, I learned all about CSS animations and techniques. I now use Tailwind in my professional builds. 
+
 ## 2025  2026 (Open Source + Startup to Freelancing/Contract Work ##
 
 After deploying Hashle, I did some work on an open source project (Dance Chives, beginning in April 2025) and also did some adjacent work at a very early startup (CareHive Maid and Homecare LLC). For the startup, I acted as the CTO (Chief Technology Officer). I performed the recording for the Y Combinator application for CareHive, in additon to auditing the MVP codebase and building a production frontend. In parallel, I worked on Dance Chives, a breakdancing-centered application (open source).
