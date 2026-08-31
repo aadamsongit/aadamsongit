@@ -8,7 +8,13 @@ I'm a **Frontend-Focused Full Stack Engineer with 5+ years of experience with Ja
 * In early 2023, I was approached by a recruiter from TEKSystems for a role with Takeda Pharmaceuticals in Exton, PA. I worked at Takeda from summer of 2023 until summer of 2024 as an IT Automation Engineer. My team built internal tools, such as a Python chatbot for APMS id retrieval and management.
 * 2024, after Takeda: Experimented with some prototypes with colleagues (late 2024), then focused on React (Scrimba)
 * 2025: Hashle, then work on open source + startup (Full Stack with Frontend focus) 2025, I worked on open source and a startup. These applications were production grade, full stack in nature.
-* 2026: Currently freelancing and doing contract, project, consulting work. 
+* 2026: Currently freelancing and doing contract, project, consulting work.
 
-____________________________________________________________________________________________________________________________________________________________
+## Current work
+
+Some of my work is public and some is private.
+
+### Hashle: Wordle Game (begun in February of 2025)
+
+What started as Wordle built with React hooks is now becoming a Full Stack codebase.
 
