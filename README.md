@@ -38,5 +38,9 @@ The **October 2025 Hackathon** was to build a blog with Next.js on the topic of 
 
 I'm currently not working on Dance Chives anymore. Ben is overhauling the application and doing work on the data ingestion pipeline and other tooling.
 
-In early 2026, Ben commissioned me for two **AI agents**. I earned a small amount of money for building a **Git session hygiene agent** and a **UI/UX orchestration agent** with deterministic/non-deterministic features. The second uses a debug-playbook and contains 4.5x more stress testing (the Git repo/Claude Code confirms). Both agents are still in use on my codebases.
+In early 2026, Ben commissioned me for two **AI agents**. I earned a small amount of money for building a **Git session hygiene agent** and a **UI/UX orchestration agent** with deterministic/non-deterministic features. The second uses a debug-playbook and contains 4.5x more stress testing (the Git repo/Claude Code confirms). Both agents are still in use on my codebases. In addition to the AI agents, I did some small client work beginning in early 2026 and officially became a freelance developer, earning money from gigs.
+
+I've also had a bit of a parallel track with AI Training gigs. I do evaluation for Writing, UI/UX, and Frontend/Full Stack work and earn a lot of money via the AI platforms. Lots of evaluation. So a mix of AI training and building stuff for clients.
+
+I use the money I earn from my work to support my indie product builds. I'm building some different solo applications and maybe joining some new codebases.
 
