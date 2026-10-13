@@ -34,3 +34,9 @@ After I refactored Minesweeper with useReducer(), I no longer participated in co
 
 The **October 2025 Hackathon** was to build a blog with Next.js on the topic of **AI and spec-driven development**. It was hosted by my former Coding Dojo instructor, Rob Dahal, now at AWS. For the hackathon, I built a blog with Next.js (also open source) and deployed it on a .dev domain with Plausible analytics. I built an MCP Express.js server and used Amazon Q to query it. This was my first experience with an agentic tool apart from Cursor, but my first AI CLI tool experience. I wrote on the blog all about spec-driven development. 
 
+## 2026 Projects / Current
+
+I'm currently not working on Dance Chives anymore. Ben is overhauling the application and doing work on the data ingestion pipeline and other tooling.
+
+In early 2026, Ben commissioned me for two **AI agents**. I earned a small amount of money for building a **Git session hygiene agent** and a **UI/UX orchestration agent** with deterministic/non-deterministic features. The second uses a debug-playbook and contains 4.5x more stress testing (the Git repo/Claude Code confirms). Both agents are still in use on my codebases.
+
