@@ -24,3 +24,9 @@ CareHive's original codebase is closed source, but some of my work can be found 
 
 CareHive had real users (50+, maybe much more if memory serves), but as a pre-seed startup, there were reasons it was not always stable. For that reason, I chose to leave CareHive and other projects to focus all my energy on **Dance Chives**. Ben, the Dance Chives founder, was working as a pre-seed CTO at Spoonly, a mental health services site, just as I was working at CareHive. Ben left Spoonly and we both began collaborating more intensely on Dance Chives, which Ben launched at the end of 2025 as a live web application. 
 
+## Other 2025 Projects
+
+Hashle, Dance Chives, and CareHive constitute my 2025 Main Dev Triad, but in addition to these three main sources of building in public, I also participated in another open source project in mid-late 2025: an open source Minesweeper game. In October of that year, I completed a hackathon.
+
+For the Minesweeper game, I reduced unnecessary bloat and complexity in the codebase. The codebase had a massive utils file and a massive App.tsx file. I refactored the utils file, also cleaning out the JS and fixing it to TypeScript. I refactored the App.tsx with the useReducer() hook, reducing code size by about 50% and making the code testable and easier to reason about. 
+
