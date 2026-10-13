@@ -8,3 +8,5 @@ My second (and first real) break into tech came in **2023** when I was hired for
 
 After my time at Takeda ended in 2024, I re-visited React via Scrimba. End of 2024, I completed Scrimba's basic React course. Beginning in February of 2025, I built **Hashle**, my Wordle game. I deployed Hashle in **July of 2025**. 
 
+In **April of 2025**, I began working on Ben Chi's open source codebase, **Dance Chives**. All my work on this codebase is public on Github. 44 commits and a longterm collaborative relationship which later yielded me real paying work from Ben. Also, about June-July of 2025, around the time I deployed Hashle, a founder approached me about a pre-seed startup. The startup was a very fragile closed source codebase: "PHP spaghetti," low Lighthouse scores. **I improved Lighthouse scores from 70% to 99% and other similar numbers.** I have the screencaps to prove it. I proposed an overhaul from legacy PHP to modern Next.js with server actions.
+
