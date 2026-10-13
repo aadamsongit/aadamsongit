@@ -1,4 +1,4 @@
-## Hi, I'm Amber.
+✨ ## Hi, I'm Amber. ✨
 
 I'm an AI-Native Full Stack Product Engineer. I build Full Stack web applications and collaborate with early stage founders. I do freelance, consulting, and contract work. 
 
