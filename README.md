@@ -28,5 +28,7 @@ CareHive had real users (50+, maybe much more if memory serves), but as a pre-se
 
 Hashle, Dance Chives, and CareHive constitute my 2025 Main Dev Triad, but in addition to these three main sources of building in public, I also participated in another open source project in mid-late 2025: an open source Minesweeper game. In October of that year, I completed a hackathon.
 
-For the Minesweeper game, I reduced unnecessary bloat and complexity in the codebase. The codebase had a massive utils file and a massive App.tsx file. I refactored the utils file, also cleaning out the JS and fixing it to TypeScript. I refactored the App.tsx with the useReducer() hook, reducing code size by about 50% and making the code testable and easier to reason about. 
+For the Minesweeper game, I reduced unnecessary bloat and complexity in the codebase. The codebase had a massive utils file and a massive App.tsx file. I refactored the utils file, also cleaning out the JS and fixing it to TypeScript. I refactored the App.tsx with the useReducer() hook, reducing code size by about 50% and making the code testable and easier to reason about. I also enforced React best practices on the codebase. For example, I removed multiple instances of manual DOM manipulation, replacing them with React hooks. The open source consisted of a small group of 5-8 or so developers. I explained imperative vs. declarative programming and React best practices. I also identified the source of a mobile bug in the codebase via E2E testing.
+
+After I refactored Minesweeper with useReducer(), I no longer participated in coding due to my Dance Chives focus, but I stayed in the Discord to mentor the other developers, including a junior developer. 
 
