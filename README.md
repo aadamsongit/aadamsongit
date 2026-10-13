@@ -32,3 +32,5 @@ For the Minesweeper game, I reduced unnecessary bloat and complexity in the code
 
 After I refactored Minesweeper with useReducer(), I no longer participated in coding due to my Dance Chives focus, but I stayed in the Discord to mentor the other developers, including a junior developer. 
 
+The **October 2025 Hackathon** was to build a blog with Next.js on the topic of **AI and spec-driven development**. It was hosted by my former Coding Dojo instructor, Rob Dahal, now at AWS. For the hackathon, I built a blog with Next.js (also open source) and deployed it on a .dev domain with Plausible analytics. I built an MCP Express.js server and used Amazon Q to query it. This was my first experience with an agentic tool apart from Cursor, but my first AI CLI tool experience. I wrote on the blog all about spec-driven development. 
+
