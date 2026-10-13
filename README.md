@@ -2,7 +2,7 @@
 
 I'm an AI-Native Full Stack Product Engineer. I build Full Stack web applications and collaborate with early stage founders. I do freelance, consulting, and contract work. 
 
-**Note:** I pride myself on being BOTH AI-Native and in possession of strong manual coding skills. I manually hand roll DSA/systems design code and still hand roll exploratory sandboxes and sometimes I fix bugs by hand if the need arises. I can wear both hats. I do however have extensive experience with AI: Cursor, Claude Code, building agents, and building a RAG data pipeline. 
+**Note:** I pride myself on being BOTH AI-Native and in possession of strong manual coding skills. I manually hand roll DSA/systems design code and still hand roll exploratory sandboxes and sometimes I fix bugs by hand if the need arises. I can wear both hats. **I have extensive experience with AI: Cursor, Claude Code, building agents, and building a RAG data pipeline.**
 
 -- 💻 **Hashle:** The Wordle game. My first solo build. FULLY open source!
 
