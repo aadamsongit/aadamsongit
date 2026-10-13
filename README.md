@@ -44,3 +44,8 @@ I've also had a bit of a parallel track with AI Training gigs. I do evaluation f
 
 I use the money I earn from my work to support my indie product builds. I'm building some different solo applications and maybe joining some new codebases.
 
+## What You Can Find Here
+
+-- **Hashle:** The Wordle game. My first solo build. FULLY open source!
+-- **"Mode Switchboard."** An app I'm building to explore the data layer of applications. Next.js/Prisma/Postgres. Data models. Mermaids diagrams. "Mode Switchboard" (placeholder name) is an application which encourages folks to manage AuDHD and scheduling via vibes, not hard rules and timers. I don't like how AuDHD apps run, so I'm building one myself. I'm productive because I manage my "buckets," and Mode Switchboard encourages an AuDHD user to write down notes about their state into buckets: code, writing a novel, working on an app, etc. Mode Switchboard aims to provide a smooth, responsive UI for users to switch between "Modes." It's also an exercise in data modeling. 
+
