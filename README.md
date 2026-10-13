@@ -6,7 +6,7 @@
 
 **If you would like to learn more about me as a developer, please read the README HERE**
 
-https://github.com/aadamsongit/PhilosophyWritingCodeSystems/tree/master
+https://github.com/aadamsongit/PhilosophyWritingCodeSystems/blob/master/README.md
 
 This is an **About the Author** page which tells my full developer timeline from 2021 until now.
 
