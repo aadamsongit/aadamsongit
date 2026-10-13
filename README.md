@@ -14,5 +14,9 @@ My second (and first real) break into tech came in **2023** when I was hired for
 
 After my time at Takeda ended in 2024, I re-visited React via Scrimba. End of 2024, I completed Scrimba's basic React course. Beginning in February of 2025, I built **Hashle**, my Wordle game. I deployed Hashle in **July of 2025**. 
 
+## CareHive & Dance Chives
+
 In **April of 2025**, I began working on Ben Chi's open source codebase, **Dance Chives**. All my work on this codebase is public on Github. 44 commits and a longterm collaborative relationship which later yielded me real paying work from Ben. Also, about June-July of 2025, around the time I deployed Hashle, a founder approached me about a pre-seed startup. The startup was a very fragile closed source codebase: "PHP spaghetti," low Lighthouse scores. **I improved Lighthouse scores from 70% to 99% and other similar numbers.** I have the screencaps to prove it. I proposed an overhaul from legacy PHP to modern Next.js with server actions.
+
+The closed source startup was named CareHive. I designed a UI with Next.js, Framer Motion, and Swiper.js. I used an MP4 hero banner that I optimized with FFMPEG and used S3 and a Cloudfront CDN for. The pristine Lighthouse scores speak for themselves. I also made a logo SVG to optimize image assets. I designed the video hero background myself with Pexels video assets and Canva for editing. In addition to designing the UI and proposing the PHP --> Next.js overhaul, I supported the founder with the Y Combinator application as the Chief Technology Officer and sole engineer on this codebase. I demoed the product for Y Combinator. 
 
