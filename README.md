@@ -1,22 +1,8 @@
+From **August of 2021 until December of 2021**, I attended **Coding Dojo** to learn web development and programming. I built Full Stack applications with **React, Python, and Java**. 
 
-I'm a **Frontend-Focused Full Stack Engineer with 5+ years of experience with JavaScript, React, Python, and Java.** Most of my work has been with JavaScript/TypeScript and React/Next.js, but I've also worked with Python in the context of network automation and data analytics, along with IT, automation, and AI work. I learned Java in 2021 but have not worked with it much since. I touched C# briefly in one project in 2024. I'm willing to work with either, or PHP, which I've also touched in the context of a legacy startup codebase (I was refactoring with Cursor and Next.js).
+In summer of **2022**, I got my first tech job as an **email developer at Covetrus**. It only lasted a couple of months before a September layoff. Fortunately, I had a back-up PT job that I'd kept just in case. 
 
-## Engineer Timeline (2021 - Present)
+My second (and first real) break into tech came in **2023** when I was hired for a role as an **"IT Automation Engineer"** for **Takeda Pharmaceuticals in Exton, Pennsylvania**. Trained as part of the Rising Talent "IT Automation" team, I attended a TEKSystems bootcamp from February through May of 2023, then began work at Takeda in June. During our IT bootcamp, we learned scripting with Python, network automation, Bash, and PowerShell, as well as Git and unit testing. 8 out of 10 of us were advanced to become the official Takeda "Rising Talent IT Automation Team."
 
-* 2021 is when I began learning coding, first via SheCodes.io (web dev, JS/HTML/CSS), then Coding Dojo (graduated December 2021) for programming and building with React, Python, and Java.
-* Through 2022, I continued upskilling with Udemy (Angela Yu) and FreeCodeCamp for JavaScript and React while working briefly as an email developer.
-* In early 2023, I was approached by a recruiter from TEKSystems for a role with Takeda Pharmaceuticals in Exton, PA. I worked at Takeda from summer of 2023 until summer of 2024 as an IT Automation Engineer. My team built internal tools, such as a Python chatbot for APMS id retrieval and management.
-* 2024, after Takeda: Experimented with some prototypes with colleagues (late 2024), then focused on React (Scrimba)
-* 2025: Hashle, then work on open source + startup (Full Stack with Frontend focus) 2025, I worked on open source and a startup. These applications were production grade, full stack in nature.
-* 2026: Currently freelancing and doing contract, project, consulting work.
-
-## Current work
-
-Some of my work is public and some is private.
-
-### Hashle: Wordle Game (begun in February of 2025)
-
-What started as Wordle built with React hooks is now becoming a Full Stack codebase.
-
-https://github.com/aadamsongit/Hashle-Game
+**From 2023 through 2024**, our team built tools which accessed data from SharePoint API endpoints. We used our knowledge of automation to improve the workflow for the International Firewall Audit for Cisco and Palo Alto devices. I participated in this international change audit with a small team of three engineers.
 
